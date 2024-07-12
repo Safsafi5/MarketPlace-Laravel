@@ -12,3 +12,4 @@ Modules\Shop\App\Models\Category::factory()->count(5)->create();
 agar tidak menggunakan npm run dev
 kita bisa menggunakan  npm run build (masuk ke vite.config lalu tambahkan recoursernya)
 # MarketPlace-Laravel
+# MarketPlace-Laravel
